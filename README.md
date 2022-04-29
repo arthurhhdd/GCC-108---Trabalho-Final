@@ -9,5 +9,5 @@ Discentes: Arthur Hauck Dittz
 
 Professor: Douglas H. S. Abreu
 
-O trabalho foi desenvolvido no modelo Notebook através do Jupyter.
+O trabalho foi desenvolvido no modelo Notebook através do Jupyter. <br />
 Este trabalho possui atividades relacionadas a matéria GCC-108.
